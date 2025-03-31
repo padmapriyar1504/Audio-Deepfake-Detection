@@ -14,6 +14,6 @@
 
 ## Setup
 ```bash
-git clone https://github.com/yourusername/audio-deepfake-detection.git](https://github.com/padmapriyar1504/Audio-Deepfake-Detection.git
+https://github.com/padmapriyar1504/Audio-Deepfake-Detection.git
 cd audio-deepfake-detection
 pip install -r requirements.txt

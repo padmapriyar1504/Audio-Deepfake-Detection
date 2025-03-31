@@ -17,3 +17,6 @@
 https://github.com/padmapriyar1504/Audio-Deepfake-Detection.git
 cd audio-deepfake-detection
 pip install -r requirements.txt
+```
+## Results 
+Train Loss: 0.0147, Acc: 0.9953 | Val Loss: 0.0132, Acc: 0.9969
